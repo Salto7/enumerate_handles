@@ -1,0 +1,1 @@
+simple PoC for enumerating local (or remote) process handles. Some of these are needed in Pool Party variants
